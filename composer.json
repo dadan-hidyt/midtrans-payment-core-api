@@ -3,6 +3,7 @@
     "type" : "library",
     "description": "midtrans pay plugin for web",
     "minimum-stability": "dev",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "DadanDev\\MidtransPay\\": "src/"
