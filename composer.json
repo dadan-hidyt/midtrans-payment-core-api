@@ -1,0 +1,17 @@
+{
+    "name": "dadandev/midtranspay",
+    "type" : "library",
+    "description": "midtrans pay plugin for web",
+    "autoload": {
+        "psr-4": {
+            "DadanDev\\MidtransPay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dadan Hidayat",
+            "email": "dadanhidyt@gmail.com"
+        }
+    ],
+    "require": {}
+}
