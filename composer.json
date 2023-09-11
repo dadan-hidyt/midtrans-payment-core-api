@@ -2,6 +2,8 @@
     "name": "dadandev/midtranspay",
     "type" : "library",
     "description": "midtrans pay plugin for web",
+    "minimum-stability" : "beta",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "DadanDev\\MidtransPay\\": "src/"
